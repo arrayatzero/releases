@@ -4,6 +4,6 @@ An _[Array at Zero](https://www.arrayatzero.com) Release_ is a collecion of desi
 
 We'll be using these pages to provide information about these releases. We want to be able to tell you all about the designs, the artists, as well as any pertinent copyright information and other details. 
 
-## Latest List
+### Stay tunned!
 
-- [Release[0]](/releases/0)
+<!-- - [Release[0]](/releases/0) -->
